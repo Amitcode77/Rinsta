@@ -227,22 +227,22 @@
                     android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:tint="#131212"
-                    app:srcCompat="@drawable/heart" />
+                    app:srcCompat="@drawable/heart"
+                    app:tint="#131212" />
 
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:tint="#131212"
-                    app:srcCompat="@drawable/comment" />
+                    app:srcCompat="@drawable/comment"
+                    app:tint="#131212" />
 
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:tint="#131212"
-                    app:srcCompat="@drawable/send" />
+                    app:srcCompat="@drawable/send"
+                    app:tint="#131212" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -255,8 +255,8 @@
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:tint="#0C0B0B"
-                        app:srcCompat="@drawable/save" />
+                        app:srcCompat="@drawable/save"
+                        app:tint="#0C0B0B" />
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -313,22 +313,22 @@
                     android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:tint="#101010"
-                    app:srcCompat="@drawable/comment" />
+                    app:srcCompat="@drawable/comment"
+                    app:tint="#101010" />
 
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:tint="#101010"
-                    app:srcCompat="@drawable/heart" />
+                    app:srcCompat="@drawable/heart"
+                    app:tint="#101010" />
 
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:tint="#101010"
-                    app:srcCompat="@drawable/send" />
+                    app:srcCompat="@drawable/send"
+                    app:tint="#101010" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -341,8 +341,8 @@
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:tint="#101010"
-                        app:srcCompat="@drawable/save" />
+                        app:srcCompat="@drawable/save"
+                        app:tint="#101010" />
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -400,22 +400,22 @@
                     android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:tint="#101010"
-                    app:srcCompat="@drawable/comment" />
+                    app:srcCompat="@drawable/comment"
+                    app:tint="#101010" />
 
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:tint="#101010"
-                    app:srcCompat="@drawable/heart" />
+                    app:srcCompat="@drawable/heart"
+                    app:tint="#101010" />
 
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:tint="#101010"
-                    app:srcCompat="@drawable/send" />
+                    app:srcCompat="@drawable/send"
+                    app:tint="#101010" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -428,8 +428,8 @@
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:tint="#121111"
-                        app:srcCompat="@drawable/save" />
+                        app:srcCompat="@drawable/save"
+                        app:tint="#121111" />
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -486,22 +486,22 @@
                     android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:tint="#101010"
-                    app:srcCompat="@drawable/comment" />
+                    app:srcCompat="@drawable/comment"
+                    app:tint="#101010" />
 
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:tint="#101010"
-                    app:srcCompat="@drawable/heart" />
+                    app:srcCompat="@drawable/heart"
+                    app:tint="#101010" />
 
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:tint="#101010"
-                    app:srcCompat="@drawable/send" />
+                    app:srcCompat="@drawable/send"
+                    app:tint="#101010" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -514,8 +514,8 @@
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:tint="#121111"
-                        app:srcCompat="@drawable/save" />
+                        app:srcCompat="@drawable/save"
+                        app:tint="#121111" />
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -573,22 +573,22 @@
                     android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:tint="#101010"
-                    app:srcCompat="@drawable/comment" />
+                    app:srcCompat="@drawable/comment"
+                    app:tint="#101010" />
 
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:tint="#101010"
-                    app:srcCompat="@drawable/heart" />
+                    app:srcCompat="@drawable/heart"
+                    app:tint="#101010" />
 
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:tint="#101010"
-                    app:srcCompat="@drawable/send" />
+                    app:srcCompat="@drawable/send"
+                    app:tint="#101010" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -601,8 +601,8 @@
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:tint="#101010"
-                        app:srcCompat="@drawable/save" />
+                        app:srcCompat="@drawable/save"
+                        app:tint="#101010" />
                 </LinearLayout>
             </LinearLayout>
 

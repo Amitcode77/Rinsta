@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        ImageView cameraToolbar = toolbar.findViewById(R.id.camera);
+        ImageView cameraToolbar = (ImageView) findViewById(R.id.camera);
         cameraToolbar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
